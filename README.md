@@ -148,3 +148,4 @@ Recognition](https://medium.com/tag/named-entity-recognition?source=post)
 
 Data Annotation Platform. Image Bounding, Document Annotation, NLP and Text
 Annotations. #HumanInTheLoop #AI, #TrainingData for #MachineLearning.
+
