@@ -144,7 +144,7 @@ super quick. *[Check us out!](https://dataturks.com/index.php)
 * [Named Entity
 Recognition](https://medium.com/tag/named-entity-recognition?source=post)
 
-### [DataTurks: Data Annotations Made Super Easy](https://medium.com/@dataturks)
+ ### [DataTurks: Data Annotations Made Super Easy](https://medium.com/@dataturks)
 
 Data Annotation Platform. Image Bounding, Document Annotation, NLP and Text
 Annotations. #HumanInTheLoop #AI, #TrainingData for #MachineLearning.
