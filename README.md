@@ -9,7 +9,6 @@ you to build ML datasets. Just upload data, invite your team and build datasets
 super quick. *[Check us out!](https://www.dataturks.com/)
 
 *****
-
 This blog speaks about a field in Natural language Processing and Information
 Retrieval called Named Entity Recognition and how we can apply it for
 automatically generating summaries of resumes by extracting only chief entities
