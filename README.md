@@ -2,7 +2,6 @@
 
 Evaluate resumes at a glance through Named Entity Recognition
 
-
 ![](https://cdn-images-1.medium.com/max/1600/1*-FxcRx8fSgtr6fhMQ_pUdw.png)
 
 *Shameless plugin: We are a data annotation platform to make it super easy for
